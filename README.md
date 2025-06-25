@@ -1,6 +1,4 @@
 # mi-ia-avanzada
-IA 10.0
-# mi-ia-avanzada
 
 Proyecto base de una IA simple usando FastAPI.
 
